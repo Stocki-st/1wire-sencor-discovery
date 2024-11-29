@@ -1,1 +1,1 @@
-# 1wire-sencor-discovery
+# 1wire-sensor-discovery
